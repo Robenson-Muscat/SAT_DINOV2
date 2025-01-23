@@ -28,7 +28,7 @@ def get_args():
                         help='Input subimages folder path')
     parser.add_argument('--image_embd_folder_path', type=str, default='Ariege/data/Ariege_embd',
                         help='Input embeddings folder path')
-    parser.add_argument('--image_shapefile', type=str, default='Ariege/data/Ariege_shp/clustering_ariege.shp',
+    parser.add_argument('--image_shapefile', type=str, default='Ariege/data/clustering_ariege.shp',
                         help='Input image shapefile path')
     
     args = parser.parse_args()

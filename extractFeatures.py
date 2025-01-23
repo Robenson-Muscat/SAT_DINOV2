@@ -114,7 +114,7 @@ def predict_and_save(model, dl, device, save_dir, batch_size):
 
 def getFeatures(path, save_dir, device):
     
-
+    os.makedirs(save_dir, exist_ok=True)
     
     model = SSLModule(device).to(device)
     model.eval()
