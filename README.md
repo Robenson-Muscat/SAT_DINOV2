@@ -166,11 +166,11 @@ Run the code `main.py`. If you don't provide any data image as `image_path` it w
 
 You can use the software QGIS. Watch a Youtube tutorial to see the results. You should be able to observe a result like that if you choose a convenient set of colors. The unsupervised image fits the three different levels of vegetation that we see on the image.
 
-![alt text](image.png)
+![Clustering](image.png)
 
-![alt text](image-1.png)
+![Ariege](image-1.png)
 
-![alt text](image-2.png)
+![Logiciel QGIS](image-2.png)
 
 
  
