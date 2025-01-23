@@ -185,7 +185,7 @@ https://filesender.renater.fr/?s=download&token=db4e10a2-b464-4144-afca-5262ec27
 
 ## Documentation
 
-A Power Point which explains my method and some results has been sent the 23th of January on Piazza. 
+A Power Point which explains my method and some results has been sent the 23th of January by mail. 
 
 The pretrained model : 
 
