@@ -72,7 +72,7 @@ sudo ./aws/install
  ## Clone the repository 
 
 ``` 
-
+cd SAT_DINOV2
 git clone https://github.com/facebookresearch/HighResCanopyHeight 
 
  ``` 
@@ -80,12 +80,12 @@ git clone https://github.com/facebookresearch/HighResCanopyHeight
 ## Data and pretrained models 
 
   
-
+Once you are in the repository SAT_DINOV2
 You can download the data and saved checkpoints. 
 To prepare the data, in the cloned repository, run these commands: 
 
 ``` 
-
+cd HighResCanopyHeight
 aws s3 --no-sign-request cp --recursive s3://dataforgood-fb-data/forests/v1/models/ . 
 
 unzip data.zip 
